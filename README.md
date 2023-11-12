@@ -36,4 +36,7 @@ The code uses strict mode and consists of the following key components:
 
 _Contact me_
 
-[Linked] (https://www.linkedin.com/in/ahmadfed/)
+LinkedIn : 
+[LinkedIn](https://www.linkedin.com/in/ahmadfed) <br>
+Gmail : 
+[My Gmail](ahmadfed.web@gmail.com)
